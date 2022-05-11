@@ -14,7 +14,6 @@ while (numerobuscado != numero){
         numero=prompt(us2 +" El numero a buscar es menor");
 
     intentos=intentos+1;
-    
 }
 }
 alert("Adivinaste en " + intentos +", el numero a buscar era: "+numerobuscado);
